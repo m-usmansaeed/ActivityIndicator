@@ -1,6 +1,6 @@
 # ActivityIndicator
 
-![Frame 4-4](https://raw.githubusercontent.com/m-usmansaeed/ActivityIndicator/main/screenshots/1.mp4)
+![Frame 4-4](https://raw.githubusercontent.com/m-usmansaeed/ActivityIndicator/main/screenshots/1.jpg)
 
 
 ## Description
